@@ -1,0 +1,30 @@
+{
+    "name": "boilerplatter",
+    "version": "1.0.0",
+    "description": "A CLI to create boilerplates.",
+    "main": "index.js",
+    "bin": {
+        "boilerplatter": "index.js"
+    },
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/itsSayantan/boilerplatter.git"
+    },
+    "keywords": [
+        "boilerplatter",
+        "boilerplates",
+        "reactjs",
+        "nodejs",
+        "webpack",
+        "babel"
+    ],
+    "author": "Sayantan Ghosh <sayantan.ghosh03@gmail.com> (https://github.com/itsSayantan)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/itsSayantan/boilerplatter/issues"
+    },
+    "homepage": "https://github.com/itsSayantan/boilerplatter#readme"
+}
