@@ -23,7 +23,7 @@ boilerplatter <command> <options>
 # List of commands
 
 ```
-boilerplatter list
+boilerplatter commands
 ```
 
 # Create a project from a boilerplate

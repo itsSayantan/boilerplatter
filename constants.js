@@ -2,7 +2,7 @@ const welcomeMessage =
     'Welcome to boilerplatter!!!\nTo get the list of commands, type `boilerplatter list`';
 
 const allCommands = {
-    mainCommands: { list: 1, create: 1 },
+    mainCommands: { commands: 1, list: 1, create: 1 },
     commands: [
         {
             name: 'commands',

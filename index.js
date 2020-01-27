@@ -74,7 +74,7 @@ if (mainCommand === void 0) {
 } else {
     if (allCommands['mainCommands'][mainCommand] === void 0) {
         console.error(
-            `Invalid command ${mainCommand}. To get the list of available commands, type \`boilerplatter list\``
+            `Invalid command ${mainCommand}. To get the list of available commands, type \`boilerplatter commands\``
         );
     } else {
         executeCommand(mainCommand, args);
