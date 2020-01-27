@@ -26,6 +26,12 @@ const boilerplateRepositoryMapping = {
             'A basic boilerplate to get started with React.JS and Typescript. Additional features include @babel/plugin-proposal-optional-chaining.',
         repo:
             'https://github.com/itsSayantan/boilerplatter-react-typescript-starter'
+    },
+    'react-typescript-splitchunks-starter': {
+        desc:
+            'A basic boilerplate to get started with React.JS and Typescript. This project includes the SplitChunksPlugin implementation. Additional features include @babel/plugin-proposal-optional-chaining.',
+        repo:
+            'https://github.com/itsSayantan/boilerplatter-react-typescript-splitchunks-starter'
     }
 };
 
