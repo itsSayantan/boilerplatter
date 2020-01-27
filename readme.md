@@ -42,7 +42,7 @@ boilerplatter create <boilerplate_name> <project_name>
 
 ## v2.0.0
 
-This version contains the following boilerplates:
+This version of boilerplatter contains the following boilerplates:
 
 1. [react-typescript-starter](https://github.com/itsSayantan/boilerplatter-react-typescript-starter)
 2. [react-typescript-splitchunks-starter](https://github.com/itsSayantan/boilerplatter-react-typescript-splitchunks-starter)
